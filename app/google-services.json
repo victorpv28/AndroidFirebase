@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "529174385112",
+    "firebase_url": "https://project--7922633656619362111.firebaseio.com",
+    "project_id": "project--7922633656619362111",
+    "storage_bucket": "project--7922633656619362111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529174385112:android:df152dfcc7cc7437",
+        "android_client_info": {
+          "package_name": "br.com.app.paulo.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529174385112-jha7813lqgrgtcgahich2ejkuko1g38i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNUQ0rXF7h9IgQcicfmi_UbHtqxT9yPJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
